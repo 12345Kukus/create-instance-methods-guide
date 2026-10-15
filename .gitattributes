@@ -1,0 +1,6 @@
+# See https://github.com/github/linguist
+node_modules/* linguist-vendored
+*.json linguist-detectable=false
+public/* linguist-vendored
+*.py linguist-detectable
+# eof 86f36c0e
